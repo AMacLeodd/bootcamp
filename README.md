@@ -1,4 +1,4 @@
-# bootcamp
+# Python Training Week
 Python and Stats Bootcamp Summer 2018
 
   *  Introduction to Python June 4th, 9:00AM
